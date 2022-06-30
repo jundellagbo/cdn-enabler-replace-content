@@ -4,7 +4,7 @@ Tags: cdn, content delivery network, content distribution network, replace conte
 Requires at least: 5.1
 Tested up to: 6.0
 Requires PHP: 5.6
-Stable tag: 0.1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,8 +27,9 @@ This plugin requires [CDN ENABLER](https://wordpress.org/plugins/cdn-enabler) pl
 * [Jundell Agbo](https://profiles.wordpress.org/jundellagbo/)
 
 == Changelog ==
-= 0.0.1 =
-* First release
 
-= 0.0.2 =
-* Updating readme.txt and README.md
+= 1.0.0
+* First major release
+
+= 0.1.0 =
+* updating readme.txt and README.md
