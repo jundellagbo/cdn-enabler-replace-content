@@ -1,10 +1,10 @@
 === CDN Enabler Replace Content ===
-Contributors: jundell
+Contributors: jundellagbo
 Tags: cdn, content delivery network, content distribution network, replace content
 Requires at least: 5.1
 Tested up to: 6.0
 Requires PHP: 5.6
-Stable tag: 0.0.1
+Stable tag: 0.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,3 +29,6 @@ This plugin requires [CDN ENABLER](https://wordpress.org/plugins/cdn-enabler) pl
 == Changelog ==
 = 0.0.1 =
 * First release
+
+= 0.0.2 =
+* Updating readme.txt and README.md
