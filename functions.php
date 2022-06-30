@@ -3,7 +3,7 @@
 Plugin Name: CDN Enabler Replace Content
 Text Domain: cdn-enabler-replace-content
 Description: This plugin requires CDN ENABLER Plugin allows you to replace multiple contents and having full control to rewrite your content to your cdn.
-Version: 0.0.2
+Version: 1.0.0
 Author: Jundell Agbo
 Author URI: https://profiles.wordpress.org/jundellagbo/
 License: GPLv2 or later
