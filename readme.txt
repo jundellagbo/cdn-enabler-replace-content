@@ -8,8 +8,16 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+
+Allows you to replace multiple contents and having full control to rewrite your content to your cdn
+
+This is NOT an official addon to CDN Enabler!
+
+
 == Description ==
 This plugin requires [CDN ENABLER](https://wordpress.org/plugins/cdn-enabler) plugin allows you to replace multiple contents and having full control to rewrite your content to your cdn.
+
+This is NOT an official addon to CDN Enabler!
 
 = Installation =
 * Go to Plugins > Add New > CDN Enabler Replace Content
