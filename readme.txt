@@ -36,8 +36,8 @@ This is NOT an official addon to CDN Enabler!
 
 == Changelog ==
 
+* Adding License: GPLv2 or later
+= 1.1.0
+
 = 1.0.0
 * First major release
-
-= 0.1.0 =
-* updating readme.txt and README.md
